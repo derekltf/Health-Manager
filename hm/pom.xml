@@ -12,7 +12,7 @@
 		<servlet.version>3.1.0</servlet.version>
 		<jdk.version>1.8</jdk.version>
 		<maven-compiler-plugin.version>3.5.1</maven-compiler-plugin.version>
-		<spring.version>4.3.10.RELEASE</spring.version>
+		<spring.version>5.3.18</spring.version>
 		<thymeleaf.version>2.1.6.RELEASE</thymeleaf.version>
 		<thymeleaf-layout.version>1.4.0</thymeleaf-layout.version>
 	</properties>
